@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a761bba9-4a50-43b4-b0aa-c0dca80ad553": {
+      "ProjectGuid": "a761bba9-4a50-43b4-b0aa-c0dca80ad553",
+      "DisplayName": "Create Table Form",
+      "ColorIndex": 0
+    },
+    "6be106df-f6b8-4e09-8aac-33f06f49a142": {
+      "ProjectGuid": "6be106df-f6b8-4e09-8aac-33f06f49a142",
+      "DisplayName": "PimLogic",
+      "ColorIndex": 1
+    },
+    "f52fea5a-1ab7-42e6-bfcf-38074a5687c2": {
+      "ProjectGuid": "f52fea5a-1ab7-42e6-bfcf-38074a5687c2",
+      "DisplayName": "InterfaceLayer",
+      "ColorIndex": 2
+    },
+    "f71bdcac-fa9c-48fc-9e3b-6ffcaf2d6f09": {
+      "ProjectGuid": "f71bdcac-fa9c-48fc-9e3b-6ffcaf2d6f09",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 3
+    },
+    "f80ce3d7-47e9-4a06-bda1-da626d448f8d": {
+      "ProjectGuid": "f80ce3d7-47e9-4a06-bda1-da626d448f8d",
+      "DisplayName": "TestConsole",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
