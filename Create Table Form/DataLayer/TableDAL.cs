@@ -11,6 +11,7 @@ namespace DataLayer
         private string connectionString = "server=localhost;user=root;database=test;port=3306;password='';SslMode=none";
         MySqlConnection connection;
         string query = "";
+        CatagoryDAL CatagoryDAL;
 
         private List<string> types;
         public TableDAL()
@@ -19,9 +20,17 @@ namespace DataLayer
             types.Add("text");
             types.Add("int");
             types.Add("boolean");
+            CatagoryDAL = new CatagoryDAL();
             
             
             connection = new MySqlConnection(connectionString);
+        }
+
+        public int AddToCatagory(int productid, string name)
+        {
+            int id = CatagoryDAL.GetCatagoryByName(name).Id;
+            return 0;
+
         }
 
         public int CreateTable(TableDTO table)
@@ -29,7 +38,7 @@ namespace DataLayer
             try
             {
                 connection.Open();
-                string query = $" CREATE TABLE {table.Name} (id int, name text";
+                string query = $" CREATE TABLE {table.Name} (id int NOT NULL AUTO_INCREMENT, catagory int, name text";
                 foreach(RowDTO row in table.Rows)
                 {
                     if (types.Contains(row.Type))
@@ -37,14 +46,15 @@ namespace DataLayer
                         query += $", {row.Name} {row.Type} ";
                     }
                 }
-                query += ", PRIMARY KEY (ID))";
+                query += ", PRIMARY KEY (ID) , FOREIGN KEY(catagory) REFERENCES catagories(id))";
                 var cmd = new MySqlCommand(query, connection);
                 cmd.ExecuteNonQuery();
                 connection.Close();
                 return 1;
             }
-            catch
+            catch(Exception ex)
             {
+                
                 return 0;
             }
         }

@@ -27,6 +27,10 @@ namespace PimLogic
             return ITable.CreateTable(tableDTO);
         } 
 
+        public int AddProduct()
+        {
+            return 1;
+        }
         public int EditTable(Table table)
         {
             return 0;

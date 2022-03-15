@@ -8,6 +8,7 @@ namespace InterfaceLayer.DTO_s
 {
     public struct CatagoryDTO
     {
+        public int Id;
         public string Name;
         public List<TableDTO> Tables;
     }

@@ -12,20 +12,27 @@ namespace PimLogic
     {
         public string Name { get; set; }
         public List<Row> Rows { get; set; }
+        private ITable Itable;
 
         public Table(string name)
         {
             Name = name;
             Rows = new List<Row>();
+            Itable = new DataLayer.TableDAL();
         }
         public Table(TableDTO tableDTO)
         {
             Name= tableDTO.Name;
             Rows = new List<Row>();
-            foreach(RowDTO row in tableDTO.Rows)
+            Itable = new DataLayer.TableDAL();
+            foreach (RowDTO row in tableDTO.Rows)
             {
                 Rows.Add(new Row(row));
             }
+        }
+        public int AddToCatagory(int productid, string name)
+        {
+            return Itable.AddToCatagory(productid, name);
         }
 
         public TableDTO CreateDTO()
