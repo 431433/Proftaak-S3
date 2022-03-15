@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\TableTest\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
+      "projectUniqueName": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
       "projectName": "InterfaceLayer",
-      "projectPath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\TableTest\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
+      "projectPath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
       "packagesPath": "C:\\Users\\pepij\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\TableTest\\Create Table Form\\InterfaceLayer\\obj\\",
+      "outputPath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pepij\\AppData\\Roaming\\NuGet\\NuGet.Config",

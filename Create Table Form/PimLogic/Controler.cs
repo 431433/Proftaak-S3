@@ -20,6 +20,12 @@ namespace PimLogic
         {
             return new Table(ITable.GetTabbleByName(name));
         }
+        public int createTable(Table table)
+        {
+            TableDTO tableDTO = table.CreateDTO();
+
+            return ITable.CreateTable(tableDTO);
+        } 
 
         public int EditTable(Table table)
         {

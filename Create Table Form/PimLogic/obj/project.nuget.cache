@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BF54KdjGt8KM8JyFnsLF2cNVWmEcu3hJOY3jB4b0REuyUy9B63ER/FmBlphuYtVg4gKoD3vYqrGfCekR05MACg==",
+  "dgSpecHash": "Xz9WXGji/tBEhn2aAEhyVvfixtTJdAJpU84sOKSfzLXPDG6KTmYl89SjnEol06GDwEFUzPonErvBY7vi4ZsWcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\TableTest\\Create Table Form\\PimLogic\\PimLogic.csproj",
+  "projectFilePath": "C:\\Users\\pepij\\OneDrive\\Bureaublad\\Github\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pepij\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\pepij\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

@@ -28,6 +28,18 @@ namespace PimLogic
             }
         }
 
+        public TableDTO CreateDTO()
+        {
+            TableDTO tableDTO = new TableDTO();
+            tableDTO.Name = Name;
+            tableDTO.Rows = new List<RowDTO>();
+            foreach(Row row in Rows)
+            {
+                tableDTO.Rows.Add(new RowDTO() { Name = row.Name , Type = row.Type});
+            }
+            return tableDTO;
+        }
+
         public int AddRow(Row row)
         {
             foreach(Row row1 in Rows)
