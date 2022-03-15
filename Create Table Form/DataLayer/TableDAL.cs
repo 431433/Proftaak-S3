@@ -37,7 +37,7 @@ namespace DataLayer
                         query += $", {row.Name} {row.Type} ";
                     }
                 }
-                query += ")";
+                query += ", PRIMARY KEY (ID))";
                 var cmd = new MySqlCommand(query, connection);
                 cmd.ExecuteNonQuery();
                 connection.Close();
