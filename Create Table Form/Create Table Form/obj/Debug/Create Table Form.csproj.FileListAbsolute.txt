@@ -32,3 +32,5 @@ C:\Users\pepij\source\repos\Create Table Form\Create Table Form\obj\Debug\Create
 C:\Users\pepij\source\repos\Create Table Form\Create Table Form\obj\Debug\Create Table Form.csproj.CopyComplete
 C:\Users\pepij\source\repos\Create Table Form\Create Table Form\obj\Debug\Create Table Form.exe
 C:\Users\pepij\source\repos\Create Table Form\Create Table Form\obj\Debug\Create Table Form.pdb
+C:\Users\Jenson\Documents\GitHub\Proftaak-S3\Create Table Form\Create Table Form\obj\Debug\Create Table Form.exe
+C:\Users\Jenson\Documents\GitHub\Proftaak-S3\Create Table Form\Create Table Form\obj\Debug\Create Table Form.pdb
