@@ -906,28 +906,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jenson\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jenso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\TestConsole.csproj",
+      "projectUniqueName": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\TestConsole.csproj",
       "projectName": "TestConsole",
-      "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\TestConsole.csproj",
-      "packagesPath": "C:\\Users\\Jenson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\obj\\",
+      "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\TestConsole.csproj",
+      "packagesPath": "C:\\Users\\jenso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\TestConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jenson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jenso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -940,8 +937,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {
-              "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj"
+            "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {
+              "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj"
             }
           }
         }
@@ -970,7 +967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

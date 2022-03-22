@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {}
+    "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\Jenson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\jenso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jenson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jenso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -34,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
-                "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj"
+              "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
+                "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj"
               }
             }
           }
@@ -70,28 +68,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
+    "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
         "projectName": "InterfaceLayer",
-        "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
-        "packagesPath": "C:\\Users\\Jenson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\obj\\",
+        "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj",
+        "packagesPath": "C:\\Users\\jenso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jenson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jenso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -130,28 +126,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {
+    "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj",
+        "projectUniqueName": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj",
         "projectName": "PimLogic",
-        "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj",
-        "packagesPath": "C:\\Users\\Jenson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\obj\\",
+        "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\PimLogic.csproj",
+        "packagesPath": "C:\\Users\\jenso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\PimLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jenson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jenso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -164,11 +158,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\DataLayer\\DataLayer.csproj"
               },
-              "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
-                "projectPath": "C:\\Users\\Jenson\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj"
+              "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj": {
+                "projectPath": "C:\\Users\\jenso\\Documents\\GitHub\\Proftaak-S3\\Create Table Form\\InterfaceLayer\\InterfaceLayer.csproj"
               }
             }
           }
@@ -197,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
